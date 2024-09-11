@@ -5,3 +5,5 @@
 - RabbitMQ
 - Pika
 - FastAPI
+- Docker
+
